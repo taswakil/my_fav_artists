@@ -1,30 +1,35 @@
-# my_fav_artists
+# my fav artists
 
-### Raveena
+<h3>Raveena</h3>
 
-![image](https://www.thepearlpost.com/wp-content/uploads/2020/02/Raveena_Cover-min-900x900.jpg) 
+<img src="https://www.thepearlpost.com/wp-content/uploads/2020/02/Raveena_Cover-min-900x900.jpg">
 
-- Still Dreaming
-- If Only
-- Headaches
-- Honey
-- Temptation
+<ul>
+    <li>Still Dreaming</li>
+    <li>If Only</li>
+    <li>Headaches</li>
+    <li>Honey</li>
+    <li>Temptation</li>
+</ul>
 
-### Erykah Badu
+<h3>Erykah Badu</h3>
 
-![image](https://th.bing.com/th/id/OIP.TChp-d-41cGduFd1FGcYkAAAAA?rs=1&pid=ImgDetMain)
+<img src="https://th.bing.com/th/id/OIP.TChp-d-41cGduFd1FGcYkAAAAA?rs=1&pid=ImgDetMain">
 
-- Didnt Cha Know
-- Honey
-- Other Side of the Game
+<ul>
+    <li>Didnt Cha Know</li>
+    <li>Honey</li>
+    <li>Other Side of the Game</li>
+</ul>
 
 
-### Jeebanoff
+<h3>Jeebanoff</h3>
 
-![image](https://th.bing.com/th/id/OIP.aWyNj06mUd_RfCl_i08mnAHaHa?rs=1&pid=ImgDetMain)
+<img src="https://th.bing.com/th/id/OIP.aWyNj06mUd_RfCl_i08mnAHaHa?rs=1&pid=ImgDetMain">
 
-- Good Thing
-- 25
-- Insane
-- Paper Mache
-
+<ul>
+    <li>Good Thing</li>
+    <li>25</li>
+    <li>Insane</li>
+    <li>Paper Mache</li>
+</ul>
